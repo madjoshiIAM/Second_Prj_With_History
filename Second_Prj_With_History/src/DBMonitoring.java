@@ -8,6 +8,9 @@ import org.json.simple.*;
 
 public class DBMonitoring
 {  
+	/*
+		First check out
+	*/	
 	public Connection getMySQLconnnection() throws Exception 
 	{
 		FileReader reader=new FileReader("db.properties");  
