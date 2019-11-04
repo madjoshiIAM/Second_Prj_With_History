@@ -9,7 +9,7 @@ import org.json.simple.*;
 public class DBMonitoring
 {  
 	/*
-		First check out
+		Second check out
 	*/	
 	public Connection getMySQLconnnection() throws Exception 
 	{

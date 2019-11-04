@@ -9,7 +9,7 @@ import org.json.simple.*;
 public class MysqlCon
 {  
 	/*
-		First check out
+		second check out
 	*/	
 	public Connection getMySQLconnnection() throws Exception 
 	{
